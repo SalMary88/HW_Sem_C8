@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\bin\Debug\net6.0\Sem_8.4.exe
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\bin\Debug\net6.0\Sem_8.4.deps.json
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\bin\Debug\net6.0\Sem_8.4.runtimeconfig.json
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\bin\Debug\net6.0\Sem_8.4.dll
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\bin\Debug\net6.0\Sem_8.4.pdb
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\obj\Debug\net6.0\Sem_8.4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\obj\Debug\net6.0\Sem_8.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\obj\Debug\net6.0\Sem_8.4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\obj\Debug\net6.0\Sem_8.4.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\obj\Debug\net6.0\Sem_8.4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\obj\Debug\net6.0\Sem_8.4.dll
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\obj\Debug\net6.0\refint\Sem_8.4.dll
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\obj\Debug\net6.0\Sem_8.4.pdb
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\obj\Debug\net6.0\Sem_8.4.genruntimeconfig.cache
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C8\Sem_8.4\obj\Debug\net6.0\ref\Sem_8.4.dll
